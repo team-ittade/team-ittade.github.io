@@ -7,7 +7,7 @@ Los apuntes están subidos a :fontawesome-brands-github: github en la organizaci
 - [💤 Dirección de operaciones](/dop/){: .elink}
 - [🚲 Dirección financiera II](/dfin2/){: .elink}
 - [🚀 Dirección comercial II](/dcom2/){: .elink}
-- [⛔ Econometría II](/ecnm/){: .elink}
+- [⛔ Econometría II](/ecnm2/){: .elink}
 
 !!! warning "Links"
     Los links apuntan a la página donde debería estar cada asignatura. Si no está, lo más probable es que haya dejado de hacer apuntes y todavía no haya subido los
