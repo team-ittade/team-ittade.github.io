@@ -1,6 +1,6 @@
 # Índice de apuntes
 
-Los apuntes están subidos a github en la organización [TEAM-ITTADE](https://github.com/team-ittade){: .elink}, desplegados automáticamente con [Github Pages](https://pages.github.com/){: .elink}.
+Los apuntes están subidos a :fontawesome-brands-github: github en la organización [TEAM-ITTADE](https://github.com/team-ittade){: .elink}, desplegados automáticamente con [Github Pages](https://pages.github.com/){: .elink}.
 
 - [🛡️ Política económica](/pol)
 - [🚀 Contabilidad de gestión](/gest)
