@@ -3,11 +3,11 @@
 Los apuntes están subidos a :fontawesome-brands-github: github en la organización [TEAM-ITTADE](https://github.com/team-ittade){: .elink}, desplegados automáticamente con [Github Pages](https://pages.github.com/){: .elink}.
 
 - [🛡️ Política económica](/pol/){: .elink}
-- [🚀 Contabilidad de gestión](/gest/){: .elink}
+- [🛡️ Contabilidad de gestión](/gest/){: .elink}
 - [🛡️ Dirección de operaciones](/dop/){: .elink}
-- [🚲 Dirección financiera II](/dfin2/){: .elink}
-- [💤 Dirección comercial II](/dcom2/){: .elink}
-- [🚲 Econometría II](/ecnm2/){: .elink}
+- [🛡️ Dirección financiera II](/dfin2/){: .elink}
+- [🛡️ Dirección comercial II](/dcom2/){: .elink}
+- [🛡️ Econometría II](/ecnm2/){: .elink}
 
 !!! warning "Links"
     Los links apuntan a la página donde debería estar cada asignatura. Si no está, lo más probable es que haya dejado de hacer apuntes y todavía no haya subido los
