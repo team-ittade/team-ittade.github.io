@@ -2,6 +2,9 @@
 
 Los apuntes están subidos a :fontawesome-brands-github: github en la organización [TEAM-ITTADE](https://github.com/team-ittade){: .elink}, desplegados automáticamente con [Github Pages](https://pages.github.com/){: .elink}.
 
+!!! warning "Links"
+    Los links del campus de las asignaturas estarán desfasados, ya que son del curso 2020-2021.
+
 ## ITTADE 5.2
 
 - [Política económica](/pol/){: .elink}
@@ -10,6 +13,14 @@ Los apuntes están subidos a :fontawesome-brands-github: github en la organizaci
 - [Dirección financiera II](/dfin2/){: .elink}
 - [Dirección comercial II](/dcom2/){: .elink}
 - [Econometría II](/ecnm2/){: .elink}
+
+!!! warning "No todos están completos"
+    - `Contabilidad de Gestión` está completo.
+    - `Política Económica` tiene las respuestas de los exámenes subidos.
+    - `Dirección de Operaciones` apenas tiene nada.
+    - `Dirección Financiera II` tiene hasta el apartado `3.3`.
+    - `Dirección Comercial II` tiene hasta el apartado `3.2`.
+    - `Econometría II` está literalmente vacío, tiene sólo la guía docente.
 
 ## ITTADE 6.1
 
